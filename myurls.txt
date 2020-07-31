@@ -1,0 +1,7 @@
+#############################################################################
+# The list contains URLs for which traffic will be allowed through the FW   #
+#############################################################################
+http://www.espn.com
+http://seekingalpha.com/
+http://www.mlb.com/dodgers
+http://www.cyclingnews.com/
